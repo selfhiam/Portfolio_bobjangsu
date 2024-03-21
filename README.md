@@ -20,7 +20,7 @@
 
 ### Back-End
 <div align="center">
-    <img src="https://img.shields.io/badge/nodedotjs-339933?style=flat&logo=nodedotjs&logoColor=white" />
+    <img src="https://img.shields.io/badge/nodedotjs-339933?style=flat&logo=nodejs&logoColor=white" />
 </div>
 
 ### Tools
